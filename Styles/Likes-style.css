@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    background-color: rgb(195, 168, 164);
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+
+}
+main{
+    padding: 100px 0 300px 0;
+
+    font-size: 25px;
+}
+h1, p {
+    text-align: center;
+
+}
